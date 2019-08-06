@@ -1,0 +1,22 @@
+{
+  "name": "textbook",
+  "version": "1.0.0",
+  "description": "a simple textbook ",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucastripoli/textbook.git"
+  },
+  "keywords": [
+    "textbook"
+  ],
+  "author": "lucas tripoli beltrão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucastripoli/textbook/issues"
+  },
+  "homepage": "https://github.com/lucastripoli/textbook#readme"
+}

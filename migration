@@ -1,0 +1,5 @@
+-- Up 
+CREATE TABLE Book (id INTEGER PRIMARY KEY, body TEXT, keywords TEXT);
+
+-- Down 
+DROP TABLE Book;
